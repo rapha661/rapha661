@@ -1,9 +1,9 @@
 <h1 align="center">Sup 👋, I'm Raphael Garavati Erbert</h1>
 <h3 align="center">Beginner developer from Brazil</h3>
 
-- 🌱 I’m currently learning **JavaScript, C, PHP**
-
 - 🔭 I’m currently working **on my portfolio**
+
+- 🌱 I’m currently learning **JavaScript, C, PHP**
 
 - 📫 How to reach me **rgaravatierbert@gmail.com**
 
