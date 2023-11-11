@@ -19,7 +19,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rapha661&show_icons=true&locale=en&layout=compact" alt="rapha661" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rapha661&show_icons=true&locale=en" alt="rapha661" /></p>### Hi there 👋
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rapha661&show_icons=true&locale=en" alt="rapha661" /></p>
 
 <!--
 **rapha661/rapha661** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
