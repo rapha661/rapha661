@@ -10,7 +10,7 @@
 
 ###
 
-- Studying computer science (5/8)
+- Studying computer science (6/8)
 - Internship at @vivo
 - Python developer
 
